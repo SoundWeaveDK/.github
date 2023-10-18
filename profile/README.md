@@ -1,3 +1,3 @@
 ## SoundWeave
 
-[SoundWeave](https://soundweave.dk).
+[SoundWeave](https://soundweave.dk)
